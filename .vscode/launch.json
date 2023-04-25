@@ -9,8 +9,16 @@
             "name": "AppDemo",
             "request": "launch",
             "mainClass": "app.AppDemo",
-            "projectName": "Chadder-SocialMediaProject_45b3b21c",
+            "projectName": "Chadder-SocialMediaProject_2483acec",
             "vmArgs": "--module-path \"lib/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
         },
+        {
+            "type": "java",
+            "name": "AppDemo",
+            "request": "launch",
+            "mainClass": "app.AppDemo",
+            "projectName": "Chadder-SocialMediaProject_45b3b21c",
+            "vmArgs": "--module-path \"lib/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
     ]
 }
