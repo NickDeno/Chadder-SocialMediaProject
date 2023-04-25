@@ -1,7 +1,7 @@
 
 # Chadder Social Media Project
 
-Chadder, named after Twitter, is a social media-like app built with JavaFX. This was my  my final project submission for my CSE218-Data Structures and Algorithms Suffolk County Community College class.
+Chadder, named after Twitter, is a social media-like app built with JavaFX. This was my final project submission for my CSE218-Data Structures and Algorithms Suffolk County Community College class in Fall 2022.
 
 ## Project Requirements
 
