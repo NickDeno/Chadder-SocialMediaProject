@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "lib/javafx-sdk-19/lib/javafx-swt.jar",
+            "lib/javafx-sdk-19/lib/javafx.base.jar",
+            "lib/javafx-sdk-19/lib/javafx.controls.jar",
+            "lib/javafx-sdk-19/lib/javafx.fxml.jar",
+            "lib/javafx-sdk-19/lib/javafx.graphics.jar",
+            "lib/javafx-sdk-19/lib/javafx.media.jar",
+            "lib/javafx-sdk-19/lib/javafx.swing.jar",
+            "lib/javafx-sdk-19/lib/javafx.web.jar",
+            "lib/richtextfx-fat-0.11.0.jar"
+        ],
+        "exclude": [
+        ]
+    }
+}
