@@ -28,7 +28,7 @@ Chadder, named after Twitter, is a social media-like app built with JavaFX. This
 * Open Project in Workspace
 * Run AppDemo file
 * If the "JavaFX runtime components are missing, and are required to run this application" error appears in console when trying to run, navigate to the .vscode folder, then the launch.json file. Open it, and add the following command directly under the "projectName" line. "vmArgs": "--module-path \"lib/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml". Finally, save the launch.json file and rerun AppDemo
-*NOTE: Since all jar dependencies are contained within lib folder, and are already referenced in the classpath, there is no need to download and install JavaFX or RichTextFX before running this program. To check this, after opening project in VSCode, under the "Referenced Libraries" folder, the jars should all appear automatically
+* NOTE: Since all jar dependencies are contained within lib folder, and are already referenced in the classpath, there is no need to download and install JavaFX or RichTextFX before running this program. To check this, after opening project in VSCode, under the "Referenced Libraries" folder, the jars should all appear automatically
 
 ## Data Structures
 
