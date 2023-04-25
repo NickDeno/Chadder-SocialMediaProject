@@ -1,2 +1,4 @@
 # Compiled class file
 *.class
+.vscode/launch.json
+.vscode/launch.json
