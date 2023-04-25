@@ -6,17 +6,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
             "name": "AppDemo",
             "request": "launch",
             "mainClass": "app.AppDemo",
-            "projectName": "Chadder - Social Media Project_1a8cab6a",
+            "projectName": "Chadder-SocialMediaProject_45b3b21c",
             "vmArgs": "--module-path \"lib/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
-        }
+        },
     ]
 }
