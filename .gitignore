@@ -2,3 +2,6 @@
 *.class
 .vscode/launch.json
 .vscode/launch.json
+bin/
+/bin
+/bin/
