@@ -3,6 +3,10 @@
 
 Chadder, named after Twitter, is a social media-like app built with JavaFX. This was my final project submission for my CSE218-Data Structures and Algorithms Suffolk County Community College class in Fall 2022.
 
+## Objectives:
+
+The primary objective of this project was to utilize the best and most efficient data structures for different tasks, reading and writing data onto the computer, implementing design patterns, implementing data persistance, and creating a GUI interface using JavaFX/SceneBuilder to simulate a social media app. Additionally, it was an oppurtunity to work on a larger scale project, practice writing efficent code, and organizing code in a best practice way.
+
 ## Project Requirements
 
 - Login
