@@ -1,7 +1,7 @@
 
 # Chadder Social Media Project
 
-Chadder, named after Twitter, is an OOP class-based offline social media-like app built with JavaFX. Since this is an offline program, it can only be run by the user locally. This was my final project submission for my CSE218-Data Structures and Algorithms Suffolk County Community College class in Fall 2022.
+Chadder, named after Twitter, is an OOP class-based offline social media app built with JavaFX. Since this is an offline program, it can only be run by the user locally. This was my final project submission for my CSE218-Data Structures and Algorithms Suffolk County Community College class in Fall 2022.
 
 ## Objectives
 
