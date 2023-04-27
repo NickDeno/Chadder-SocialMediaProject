@@ -22,6 +22,7 @@ Chadder, named after Twitter, is a social media-like app built with JavaFX. This
 - Explain all the data structures used and their justification in README file
 ## VSCode: How to Run
 
+* Video Tutorial: [https://www.youtube.com/watch?v=OT_OI18aaOY&ab_channel=oVelocity]
 * Download Project
 * Launch VSCode
 * Ensure "Extension Pack for Java" Extension is installed for VSCode
