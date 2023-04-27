@@ -10,6 +10,7 @@ The primary objective of this project was to:
  * Reading and writing data onto the computer
  * Implementing design patterns and data persistance
  * Create a GUI interface using JavaFX/SceneBuilder to simulate a social media app
+ 
 Additionally, it was an oppurtunity to work on a larger scale project, practice writing efficent code, and organizing code in a best practice way.
 
 ## Project Requirements
